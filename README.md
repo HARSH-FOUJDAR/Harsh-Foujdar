@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Harsh Choudhary
 
-🚀 Aspiring Full-Stack Developer | 🎓 BCA (2nd Year)
 
 I love building clean, responsive web apps and improving my fundamentals every day.  
 Currently learning **MERN stack** and preparing for **full-stack roles**.
