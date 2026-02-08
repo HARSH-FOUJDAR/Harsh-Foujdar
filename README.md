@@ -1,4 +1,4 @@
-# Hi, I'm Harsh Choudhary
+# Hi, I'm Harsh FOUJDAR
 
 I enjoy building clean, scalable, and responsive web applications while continuously strengthening my problem-solving and core CS fundamentals.  
 Currently focused on **Full-Stack Development (MERN)** and preparing for **software developer roles**.
